@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# I am author!
+# I am new author!
 print("My first Git program!!!")
-# 2020 (c) Me
-=======
 print("Hello, python")
->>>>>>> python2branch
+# 2017 (c) Me
